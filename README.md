@@ -1,2 +1,1 @@
-# auroka-test
-Auroka Testing Framework
+# Auroka Testing Framework
