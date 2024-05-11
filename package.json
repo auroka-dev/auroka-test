@@ -1,0 +1,25 @@
+{
+  "name": "auroka-test",
+  "version": "1.0.0",
+  "description": "Auroka Testing Framework",
+  "main": "index.js",
+  "scripts": {
+    "format": "cargo fmt",
+    "build": "cd feature-macro && cargo build",
+    "test": "cd feature-macro && cargo test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auroka-dev/auroka-test.git"
+  },
+  "keywords": [
+    "Testing",
+    "BDD"
+  ],
+  "author": "alexandre.faria@auroka.pt",
+  "license": "MIT OR Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/auroka-dev/auroka-test/issues"
+  },
+  "homepage": "https://github.com/auroka-dev/auroka-test#readme"
+}
